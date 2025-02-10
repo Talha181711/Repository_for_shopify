@@ -13,13 +13,13 @@
       "type": "template-page",
       "settings": {}
     },
-    "contact_form_rcc63y": {
+    "contact_form_giFp8m": {
       "type": "contact-form",
       "settings": {}
     }
   },
   "order": [
     "template",
-    "contact_form_rcc63y"
+    "contact_form_giFp8m"
   ]
 }
