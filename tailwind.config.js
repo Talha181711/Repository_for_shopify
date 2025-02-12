@@ -5,7 +5,11 @@ module.exports = {
     "./assets/**/*.js", // Optional: If you have JavaScript files that contain Tailwind classes dynamically
   ],
   theme: {
-    extend: {},
+    extend: {
+      height: {
+        94: "22rem",
+      },
+    },
   },
   plugins: [],
 };
