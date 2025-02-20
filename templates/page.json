@@ -18,8 +18,5 @@
       "settings": {}
     }
   },
-  "order": [
-    "template",
-    "contact_form_giFp8m"
-  ]
+  "order": ["template", "contact_form_giFp8m"]
 }
